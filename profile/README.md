@@ -13,6 +13,7 @@ https://retrobowl2.blog  ⭐
 https://cookieclicker.blog  ⭐
 
 ---
+<img src="https://3run.blog/files/image/cookie-clicker.png" alt="Cookie Clicker" />
 
 #### **Introduction to Cookie Clicker**
 Cookie Clicker, a popular incremental game, involves the simple yet addictive goal of clicking a cookie to produce as many cookies as possible. Initially developed by Julien "Orteil" Thiennot in 2013, this browser-based game has become a favorite among idle game enthusiasts due to its straightforward mechanics and rewarding progression system. In this guide, we will explore everything you need to know about maximizing your Cookie Clicker experience, from essential upgrades to pro tips for maximizing cookie production.
